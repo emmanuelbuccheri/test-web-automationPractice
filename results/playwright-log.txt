@@ -1,0 +1,36 @@
+{"level":30,"time":"2021-11-08T19:48:36.180Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Listening on 62760"}
+{"level":30,"time":"2021-11-08T19:48:36.789Z","pid":13700,"hostname":"EMMA-NTBK","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-08T19:48:36.801Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Changed active context"}
+{"level":30,"time":"2021-11-08T19:48:37.023Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-08T19:48:37.023Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Changed active page"}
+{"level":30,"time":"2021-11-08T19:48:43.922Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Retrieved text for element text=Blouse containing Blouses"}
+{"level":30,"time":"2021-11-08T19:48:44.504Z","pid":13700,"hostname":"EMMA-NTBK","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-08T19:48:44.511Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Changed active context"}
+{"level":30,"time":"2021-11-08T19:48:44.656Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-08T19:48:44.657Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Changed active page"}
+{"level":30,"time":"2021-11-08T19:48:51.838Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Retrieved text for element text=No results were found for your search \"ItemNaoExistente\" containing No results were found for your search \"ItemNaoExistente\""}
+{"level":30,"time":"2021-11-08T19:48:52.325Z","pid":13700,"hostname":"EMMA-NTBK","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-08T19:48:52.343Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Changed active context"}
+{"level":30,"time":"2021-11-08T19:48:52.498Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-08T19:48:52.498Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Changed active page"}
+{"level":30,"time":"2021-11-08T19:49:00.961Z","pid":13700,"hostname":"EMMA-NTBK","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-08T19:49:00.971Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Changed active context"}
+{"level":30,"time":"2021-11-08T19:49:01.174Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-08T19:49:01.174Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Changed active page"}
+{"level":30,"time":"2021-11-08T19:49:07.832Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Retrieved text for element text=t-shirt containing T-shirts"}
+{"level":30,"time":"2021-11-08T19:49:10.335Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Retrieved text for element text=\"Product successfully added to your shopping cart\" containing Product successfully added to your shopping cart"}
+{"level":30,"time":"2021-11-08T19:49:11.793Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Retrieved text for element text=SHOPPING-CART SUMMARY containing SHOPPING-CART SUMMARY\nYour shopping cart contains: 1 Product"}
+{"level":30,"time":"2021-11-08T19:49:12.400Z","pid":13700,"hostname":"EMMA-NTBK","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-08T19:49:12.417Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Changed active context"}
+{"level":30,"time":"2021-11-08T19:49:12.597Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-08T19:49:12.597Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Changed active page"}
+{"level":30,"time":"2021-11-08T19:49:20.110Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Retrieved text for element text=t-shirt containing T-shirts"}
+{"level":30,"time":"2021-11-08T19:49:22.697Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Retrieved text for element text=\"Product successfully added to your shopping cart\" containing Product successfully added to your shopping cart"}
+{"level":30,"time":"2021-11-08T19:49:23.947Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Retrieved text for element text=SHOPPING-CART SUMMARY containing SHOPPING-CART SUMMARY\nYour shopping cart contains: 1 Product"}
+{"level":30,"time":"2021-11-08T19:49:25.264Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Retrieved text for element text=SHOPPING-CART SUMMARY containing SHOPPING-CART SUMMARY\nYour shopping cart contains: 1 Product"}
+{"level":30,"time":"2021-11-08T19:49:26.533Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Retrieved text for element text=Your shopping cart is empty. containing Your shopping cart is empty."}
+{"level":30,"time":"2021-11-08T19:49:27.052Z","pid":13700,"hostname":"EMMA-NTBK","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-08T19:49:27.072Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Changed active context"}
+{"level":30,"time":"2021-11-08T19:49:27.240Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-08T19:49:27.240Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Changed active page"}
+{"level":30,"time":"2021-11-08T19:49:38.209Z","pid":13700,"hostname":"EMMA-NTBK","msg":"Retrieved text for element text=CREATE AN ACCOUNT containing CREATE AN ACCOUNT"}
